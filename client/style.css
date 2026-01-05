@@ -1,0 +1,18 @@
+    * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    
+    @font-face {
+        font-family: 'FacebookFont'; 
+        src: url('./public/fonts/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7.woff2') format('woff2'); 
+        font-weight: normal; 
+        font-style: normal;  
+    }
+
+        body {
+        font-family: 'FacebookFont';
+    }
+
+    
